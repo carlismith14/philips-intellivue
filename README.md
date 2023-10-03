@@ -4,7 +4,7 @@
 
 The IntelliVue Sim File, built with React, serves as a versatile hybrid mobile/web application. It mirrors the form, function, and user experience of Philips's portable patient monitoring system. The goal was to create a user-friendly and accessible tool for nurses and hospital staff. This application allows them to become familiar with the monitor's operation using their mobile devices, simplifying their workflow and enhancing convenience.
 
-## Technologies Used
+# Technologies Used
 - React
 - React Router
 - React Context API
