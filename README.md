@@ -12,7 +12,7 @@ The IntelliVue Sim File, built with React, serves as a versatile hybrid mobile/w
 - Capacitor
 
 
-*Kindly be advised that the demo link and project source code for this endeavor are currently unavailable. Nevertheless, you are encouraged to explore the screenshots and project highlights provided below for a comprehensive overview."
+*Kindly be advised that the demo link and project source code for this endeavor are currently unavailable. Nevertheless, you are encouraged to explore the screenshots and project highlights provided below for a comprehensive overview.
 
 # Highlights 
 
